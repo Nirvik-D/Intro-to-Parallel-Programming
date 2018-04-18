@@ -1,0 +1,13 @@
+﻿  Main.cpp
+c:\users\rijua\box sync\courses\spring 2017\cs 575\projects\project 1\project 1\main.cpp(62): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\rijua\box sync\courses\spring 2017\cs 575\projects\project 1\project 1\main.cpp(63): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\rijua\box sync\courses\spring 2017\cs 575\projects\project 1\project 1\main.cpp(64): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\rijua\box sync\courses\spring 2017\cs 575\projects\project 1\project 1\main.cpp(67): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\rijua\box sync\courses\spring 2017\cs 575\projects\project 1\project 1\main.cpp(68): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\rijua\box sync\courses\spring 2017\cs 575\projects\project 1\project 1\main.cpp(69): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\rijua\box sync\courses\spring 2017\cs 575\projects\project 1\project 1\main.cpp(77): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\rijua\box sync\courses\spring 2017\cs 575\projects\project 1\project 1\main.cpp(82): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\rijua\box sync\courses\spring 2017\cs 575\projects\project 1\project 1\main.cpp(97): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\rijua\box sync\courses\spring 2017\cs 575\projects\project 1\project 1\main.cpp(114): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\rijua\box sync\courses\spring 2017\cs 575\projects\project 1\project 1\main.cpp(119): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Project 1.vcxproj -> C:\Users\rijua\Box Sync\Courses\Spring 2017\CS 575\Projects\Project 1\Debug\Project 1.exe
